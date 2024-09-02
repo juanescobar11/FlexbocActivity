@@ -1,0 +1,16 @@
+"editor.rulers": [120],
+ "editor.defaultFormatter": "esbenp.prettier-vscode",
+ "editor.formatOnSave": true,
+ "editor.formatOnPaste": true,
+ "editor.codeActionsOnSave": {
+   "source.organizeImports": true
+ },
+ "editor.cursorWidth": 7,
+ "prettier.tabWidth": 2,
+ "prettier.jsxSingleQuote": true,
+ "prettier.printWidth": 120,
+ "prettier.singleQuote": true,
+ "emmet.includeLanguages": {
+   "javascript": "javascriptreact"
+ },
+ "editor.fontSize": 15.5,

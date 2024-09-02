@@ -1,0 +1,99 @@
+.containerpadre{
+    background-color: beige;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+.container{
+
+    margin: 10px;
+    padding: 10px;
+}
+.container1{
+
+    background-color:rgb(206, 153, 73);
+    display: block;
+    height: 33%;
+}
+
+.container2{
+background-color:rgb(128, 172, 83);
+display:flex;
+flex-wrap: wrap;
+height: 66%;
+}
+
+
+.container3{
+    background-color: rgb(153, 184, 121);
+    flex-direction: row;
+    display: flex;
+    width: 80%;
+    height: 80%;
+
+  
+}
+
+.container4{
+    background-color: rgb(153, 184, 121);
+    display: flex;
+    width: 80%;
+    height: 80%;
+   
+    
+}
+
+.container5{
+    background-color: rgb(153, 184, 121);
+    flex-direction: column;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    width: 13%;
+    height: 40%;
+}
+
+
+
+
+
+.item{
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.itemA{
+    background-color:rgb(226, 166, 117);
+    width: 97%;
+    
+}
+.itemB{
+    background-color:rgb(53, 116, 64) ;
+    width: 100%;
+}
+.itemC{
+    background-color: rgb(133, 133, 8);
+    width: 33%;
+    height: 60%;
+
+    
+}
+.itemD{
+    background-color: green;
+    width: 33%;
+    height: 60%;
+}
+.itemE{
+    background-color:rgb(98, 98, 141) ;
+    width: 33%;
+    height: 60%;
+}
+.itemF{
+    background-color: rgb(82, 143, 161);
+    height: 80%;
+    width: 60%;
+
+}
